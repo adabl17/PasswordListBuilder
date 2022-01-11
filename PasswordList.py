@@ -1,4 +1,3 @@
-import requests
 import os
 import itertools
 red='\033[31m'
